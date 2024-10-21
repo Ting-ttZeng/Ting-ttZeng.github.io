@@ -2,8 +2,7 @@
 layout: page
 ---
 <img src="https://Ting-ttZeng.github.io/Ting.jpg" class="floatpic" width="180" height="180">
-Hello! I am Tingting Zeng (曾婷婷). I am currently a third-year *M.Sc.* student in China University of Geosciences, advised by [Prof. Shucheng Xie](https://scholar.google.cz/citations?user=kEgwUUkAAAAJ&hl=zh-CN&oi=ao) and  [Prof. Canfa Wang](https://scholar.google.cz/citations?user=exEQRIsAAAAJ&hl=zh-CN&oi=ao). 
-
+Hello! I am Tingting Zeng (曾婷婷). I am currently a third-year *M.Sc.* student in China University of Geosciences, advised by [Prof. Shucheng Xie](https://scholar.google.cz/citations?user=kEgwUUkAAAAJ&hl=zh-CN&oi=ao) and  [Prof. Canfa Wang](https://scholar.google.cz/citations?user=exEQRIsAAAAJ&hl=zh-CN&oi=ao). <br><br>
 🤗 Welcome to my personal website 🏠️！
 
 ---
