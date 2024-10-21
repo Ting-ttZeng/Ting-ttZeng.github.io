@@ -42,12 +42,12 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Field trips
-    url: /    /
-  - title: Projects
-    url: /   /
-  - title: Teams
-    url: /   /
+ # - title: Field trips
+    #url: /    /
+  #- title: Projects
+    #url: /   /
+ # - title: Teams
+    #url: /   /
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
