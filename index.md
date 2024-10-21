@@ -3,14 +3,19 @@ layout: page
 ---
 <img src="https://Ting-ttZeng.github.io/Ting.jpg" class="floatpic" width="180" height="180">
 Hello! I am Tingting Zeng (曾婷婷). I am currently a third-year *M.Sc.* student in China University of Geosciences, advised by [Prof. Shucheng Xie](https://scholar.google.cz/citations?user=kEgwUUkAAAAJ&hl=zh-CN&oi=ao) and  [Prof. Canfa Wang](https://scholar.google.cz/citations?user=exEQRIsAAAAJ&hl=zh-CN&oi=ao). <br><br>
-🤗 Welcome to my personal website 🏠️！
+🤗 Welcome to my personal website 🏠️<br>
+<br>
+**I am actively seeking a PhD position for Fall 2025. My research interests mainly focus on Geomicrobiology and Biogeochemistry. If you have any information, please contact me!**
+
 
 ---
-**I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!**
+**🎓️Education:**
+- _Sep. 2022 – present_        _M.Sc._ student in Geology, China University of Geosciences. 
+- _Sep. 2018 – Jul. 2022_     _B.Sc._ in Geology, China University of Geosciences.
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Cyber-Physical System
-- Applied Machine Learning
+---
+**⛰️Hobbies**
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
-
+- Definitely traveling — I'd like to explore every corner of the whole world and enjoy local cuisine!!!
+- Doing sports 🫶 — Badminton, Ping-pong, Swimming, Cycling, Hiking...
+- I am also a fan of Sci-fi novels and films 🛸🛸🛸
