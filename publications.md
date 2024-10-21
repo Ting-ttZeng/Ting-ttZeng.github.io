@@ -12,11 +12,6 @@ title: Publications
 <br>
 **_📎 Conference Presentations_**
 - **Zeng, T.,** Wang, C., Li, Z., Bendle, J., Yang, Y., Xie, S.. [The response mechanism of Gram-negative bacterial 3-OH-FAs to soil pH: Community changes vs. Membrane adaption]([https://ui.adsabs.harvard.edu/abs/2023AGUFMPP11B..01Z/abstract](https://ui.adsabs.harvard.edu/abs/2023AGUFMPP11B..01Z/abstract)). _American Geophysical Union (AGU) Fall Meeting_, Francisco, CA. Dec. 2023 (Oral).
-- **Zeng, T.**, Wang, C., Li, Z., Yang, Y., Xie, S.. The response mechanism of Gram-negative bacterial 3-OH-FAs to soil pH: Community changes vs. Membrane adaption. Annual Academic Conference of Geobiology, Xishuangbanna, China. Aug. 2023 (Poster).
-<img src="https://Ting-ttZeng.github.io/agu.jpg" class="floatpic" width="360" height="480"><img src="https://Ting-ttZeng.github.io/banna.jpg" class="floatpic" width="360" height="480">
-  <br>
-
----
-
-
+- **Zeng, T.**, Wang, C., Li, Z., Yang, Y., Xie, S.. The response mechanism of Gram-negative bacterial 3-OH-FAs to soil pH: Community changes vs. Membrane adaption. Annual Academic Conference of Geobiology, Xishuangbanna, China. Aug. 2023 (Poster).<br>
+<img src="https://Ting-ttZeng.github.io/agu.jpg" class="left" width="360" height="480"><img src="https://Ting-ttZeng.github.io/banna.jpg" class="right" width="360" height="480">
   <br>
