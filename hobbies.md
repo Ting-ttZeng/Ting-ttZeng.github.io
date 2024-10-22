@@ -14,9 +14,10 @@ title: Hobbies
 July 2021, a field trip t**o Lake Chenghai** in Lijiang, China. Our ORV got stuck in the mud, and the rescue truck that came to help also got stuck! 🚨🚨🚨emergency🚨🚨🚨
 <br>
 
-<div class="second">
-<img src="/images/work/hzzd.jpg" width="280" height="210" >
-<img src="/images/work/hzzd1.jpg" width="280" height="210">
+<div class="third">
+<img src="/images/work/hzzd.jpg" >
+<img src="/images/work/hzzd1.jpg" >
+<img src="/images/work/hzzd2.jpg" >
 
 </div>
 <br>Nov 2021, a field trip to **Cave Haozhuzi** in Enshi, China. The stalagmites there are so wonderful!!!
