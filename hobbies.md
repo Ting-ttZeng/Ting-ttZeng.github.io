@@ -7,11 +7,11 @@ title: Hobbies
 
 
 <div class="second">
-<img src="/images/work/ch.jpg">
-<img src="/images/work/chtrack.jpg">
+<img src="/images/work/ch.jpg" width="240" height="180">
+<img src="/images/work/chtrack.jpg" width="240" height="180">
 </div>
 <br>
-July 2021, a field trip to Lake Chenghai in Lijiang, China. Our ORV got stuck in the mud, and the rescue truck that came to help also got stuck, emergency🚨🚨🚨!
+July 2021, a field trip to Lake Chenghai in Lijiang, China. Our ORV got stuck in the mud, and the rescue truck that came to help also got stuck! 🚨🚨🚨emergency🚨🚨🚨
 ## Workshop
 
 <div class="third">
