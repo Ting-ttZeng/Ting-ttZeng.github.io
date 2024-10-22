@@ -41,13 +41,13 @@ links:
   - title: Publications
     url: /publications/
   - title: Projects
-    url: /awards/
+    url: /projects/
   - title: Awards
-    url: /hobbies/
+    url: /awards/
   - title: Fields
-    url: /blogs/
+    url: /fields/
   - title: Lab work
-    url: /teams/
+    url: /lab work/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing

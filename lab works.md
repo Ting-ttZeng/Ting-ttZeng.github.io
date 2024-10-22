@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blogs/index.html
-title: Blogs
+permalink: /lab work/index.html
+title: Lab work
 ---
 
 <div class="third">
