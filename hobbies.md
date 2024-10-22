@@ -10,7 +10,7 @@ title: Hobbies
 
 </div>
 <br>
-Apr 2021, a field trip to **Mt. Fanjing** in Tongren, China for collecting acid soils.  We went deep into the forest under the guidance of a forest ranger and encounter many "amazing" creatures 😨🪱🐍.<br>
+Apr 2021, a field trip to **Mt. Fanjing** in Tongren, China for collecting acid soils.  We went deep into the forest under the guidance of a forest ranger and encounter many "amazing" creatures 🪱🐍. An unforgettable journey 😨😨😨<br>
 
 
 <div class="second">
@@ -18,7 +18,7 @@ Apr 2021, a field trip to **Mt. Fanjing** in Tongren, China for collecting acid 
 <img src="/images/work/chtrack.jpg" width="280" height="210">
 </div>
 <br>
-July 2021, a field trip to **Lake Chenghai** in Lijiang, China. Our ORV got stuck in the mud, and the rescue truck that came to help also got stuck! 🚨🚨🚨emergency🚨🚨🚨
+July 2021, a field trip to **Lake Chenghai** in Lijiang, China. Our ORV got stuck in the mud, and the rescue truck that came to help also got stuck! 🚨🚨🚨Emergency🚨🚨🚨
 <br>
 
 <div class="third">
