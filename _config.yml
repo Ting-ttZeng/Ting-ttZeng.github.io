@@ -42,8 +42,8 @@ links:
     url: /publications/
   - title: Projects
     url: /projects/
-  #- title: Awards
-   # url: /hobbies/
+  - title: Awards
+    url: /awards/
   #- title: Fields
     #url: /blogs/
   #- title: Lab work
