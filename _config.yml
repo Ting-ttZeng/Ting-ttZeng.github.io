@@ -43,11 +43,11 @@ links:
   - title: Awards
     url: /awards/
   - title: Fields
-    url: /hobbies/
+    url: /fields/
    #- title: Projects
     #url: /   /
- # - title: Teams
-    #url: /   /
+  - title: Lab work
+    url: /teams/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
