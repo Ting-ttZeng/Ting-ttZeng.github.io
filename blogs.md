@@ -34,7 +34,7 @@ Culture bacteria under lab conditions 👩🏽‍🔬🔬 It takes a long time, 
 
 <div class="second">
 <img src="/images/lab/ma.jpg" width="280" height="210">
-<img src="/images/lab/ma1.jpg"width="280" height="210">
+<img src="/images/lab/ma1.jpg" width="280" height="210">
 
 </div>
 <br>
