@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teams/index.html
-title: Teams
+permalink: /projects/index.html
+title: Projects
 ---
 #### **Completed projects**<br>
 - The influence of Gram-negative bacterial community on the distribution of 3-OH-FAs in soils
