@@ -11,6 +11,6 @@ title: Awards
 - _2023.10_         **The First Prize of Graduate Study Scholarship**, China University of Geosciences
 - _2022.10_         **The First Prize of Graduate Study Scholarship**, China University of Geosciences
 - _2021.12_          **Ruiming Alumni Scholarship**, China University of Geosciences
-- _2021.12_          **Ruiming Alumni Scholarship**, China University of Geosciences
+- _2020.12_          **Ruiming Alumni Scholarship**, China University of Geosciences
 - _2020.08_         **Outstanding student**, Industrial-Academic-Research Base, Zigui, China University of Geosciences
 - _2019.12_          **Social Practice Scholarship**, China University of Geosciences<br>
