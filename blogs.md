@@ -15,7 +15,7 @@ title: Blogs
 <img src="/images/lab/bac6.jpg">
 </div>
 <br>
-Culture bacteria under lab conditions 👩🏽‍🔬🔬 It takes a long time, but is definitely worth it!<br>
+**Culture bacteria** under lab conditions 👩🏽‍🔬🔬 It takes a long time, but is definitely worth it!<br>
 
 
 <div class="third">
@@ -29,7 +29,7 @@ Culture bacteria under lab conditions 👩🏽‍🔬🔬 It takes a long time, 
 <img src="/images/lab/og6.jpg">
 </div>
 <br>
-🧪 Extract lipids using organic geochemistry methods. Those lipids hold significant potential for conveying rich informations about life and environment in the past!<br>
+🧪 **Extract lipids** using organic geochemistry methods. Those lipids hold significant potential for conveying rich informations about life and environment in the past!<br>
 
 
 <div class="second">
@@ -38,4 +38,4 @@ Culture bacteria under lab conditions 👩🏽‍🔬🔬 It takes a long time, 
 
 </div>
 <br>
-🔧 Maintain GCMS regularly as a research assistance. Hope it could work smoothly every day 🤣
+🔧 **Maintain GCMS** regularly as a research assistance. Hope it could work smoothly every day 🤣
