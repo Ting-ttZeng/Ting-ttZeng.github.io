@@ -5,13 +5,13 @@ title: Teams
 ---
 **Completed projects**
 <br>
-- **The influence of Gram-negative bacterial community on the distribution of 3-OH-FAs in soils**
-
-<br> <div>
+- **The influence of Gram-negative bacterial community on the distribution of 3-OH-FAs in soils** <br>
+ <div>
 <img src="/images/pro/qu.jpg">
 </div>
 <br>
-Our work quantitatively evaluated the impact of community dynamics on the distribution of 3-hydroxy fatty acids in soil and the pH proxies. Taking bacterial community into consideration is really important❗️❗️
+Our work quantitatively evaluated the impact of community dynamics on the distribution of 3-hydroxy fatty acids in soil and the pH proxies. Taking bacterial community into consideration is really important!
+<br>
 
 **Ongoing projects**
 <br>
