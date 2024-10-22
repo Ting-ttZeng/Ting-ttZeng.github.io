@@ -12,16 +12,15 @@ title: Hobbies
 </div>
 <br>
 July 2021, a field trip to Lake Chenghai in Lijiang, China. Our ORV got stuck in the mud, and the rescue truck that came to help also got stuck! 🚨🚨🚨emergency🚨🚨🚨
-## Workshop
+<br>
 
 <div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
+<img src="/images/work/hzzd.jpg" >
+<img src="/images/work/hzzd1.jpg">
+<img src="/images/work/hzzdme.jpg">
 </div>
-<br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
+<br>Nov 2021, a field trip to Cave Haozhuzi in Enshi, China. The stalagmites there are so wonderful!!!
 
-[best universities in my hometown]:https://www.fzu.edu.cn/
 
 
 ## Past Hobbies
