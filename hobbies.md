@@ -10,7 +10,7 @@ title: Hobbies
 
 </div>
 <br>
-Apr 2021, a field trip to **Mt. Fanjing** in Tongren, China for collecting acid soils.  We went deep into the forest under the guidance of a forest ranger and encounter many "amazing" creatures 🪱🐍. An unforgettable journey 😨😨😨<br>
+Apr 2021, a field trip to **Mt. Fanjing** in Tongren, China for collecting acid soils.  We went deep into the forest under the guidance of a forest ranger and encounter many "amazing" creatures 🪱🐍. An unforgettable journey 😨<br>
 
 
 <div class="second">
