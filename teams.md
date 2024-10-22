@@ -10,6 +10,6 @@ Our work quantitatively evaluated the impact of community dynamics on the distri
 <br>
 
 **Ongoing projects**<br>
-- Adaptation of membrane lipids in Gram-negative bacteria to soil pH.
+- **Adaptation of membrane lipids in Gram-negative bacteria to soil pH.**
 
-- Establishment of novel temperature and pH proxies based on 3-OH-FAs using machine learning. 
+- **Establishment of novel temperature and pH proxies based on 3-OH-FAs using machine learning.** 
