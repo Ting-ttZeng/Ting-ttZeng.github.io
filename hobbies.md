@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /fields/index.html
-title: fields
+permalink: /hobbies/index.html
+title: Hobbies
 ---
 
 <div class="second">
