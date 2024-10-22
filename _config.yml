@@ -45,9 +45,9 @@ links:
   - title: Fields
     url: /hobbies/
   - title: Projects
-    url: /teams/
-  - title: Lab work
     url: /blogs/
+  - title: Lab work
+    url: /teams/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
