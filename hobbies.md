@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /fields/index.html
-title: Fields
+title: Hobbies
 ---
 
 <div class="second">
