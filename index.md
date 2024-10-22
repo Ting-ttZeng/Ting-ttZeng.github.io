@@ -10,13 +10,13 @@ Hello! I am Tingting Zeng (曾婷婷). I am currently a third-year *M.Sc.* stude
 
 
 ---
-#### **🎓️ Education:**
+#### **Education:**
 
 - _Sep. 2022 – present_        _M.Sc._ student in Geology, China University of Geosciences.
 - _Sep. 2018 – Jul. 2022_     _B.Sc._ in Geology, China University of Geosciences.
 
 ---
-#### **🫶 Hobbies**
+#### **Hobbies**
 
 - Definitely traveling ⛰️ — I'd like to explore every corner of the whole world and enjoy local cuisine!!!
 - Doing sports 🏃‍♀️ — Badminton, Ping-pong, Swimming, Cycling, Hiking...
@@ -24,6 +24,6 @@ Hello! I am Tingting Zeng (曾婷婷). I am currently a third-year *M.Sc.* stude
 
 
 ---
-#### **📢 News and Updates**
+#### **News and Updates**
 
 - **Oct 25-27 2024**: I  will be presenting a poster titled "The Molecular Adaptation of 3-OH-FAs to Environmental pH under Laboratory Culture Conditions" at the 10th Bio-Organic Geochemistry Conference in Qingdao, China. See you in Qingdao!
